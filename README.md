@@ -8,7 +8,7 @@ This project has given a dataset with one constraint which is **the number of sa
 
 
 
-**Finally, we use logistic regression instead due to the interpret ability to explain and the fast algorithm to execute that come with the F1-score on testing set (over 16000 rows) of 79.7%**
+**We using SMOTE oversampling technique to handle the imbalance class in our data. Finally, we use logistic regression instead due to the interpret ability to explain and the fast algorithm to execute that come with the F1-score on testing set (over 16000 rows) of 79.7%**
 
 
 ---
